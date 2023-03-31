@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "úloha – Project-BPC-IC1-2023",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

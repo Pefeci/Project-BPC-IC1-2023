@@ -1,0 +1,3 @@
+D:/Skola/Bezpoecnost ICT/Projekt/Project-BPC-IC1-2023/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Skola/Bezpoecnost ICT/Projekt/Project-BPC-IC1-2023/out/build/x64-Debug/CMakeFiles/Project-BPC-IC1-2023.dir
+D:/Skola/Bezpoecnost ICT/Projekt/Project-BPC-IC1-2023/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

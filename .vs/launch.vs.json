@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Project-BPC-IC1-2023.exe",
+      "name": "Project-BPC-IC1-2023.exe"
+    }
+  ]
+}

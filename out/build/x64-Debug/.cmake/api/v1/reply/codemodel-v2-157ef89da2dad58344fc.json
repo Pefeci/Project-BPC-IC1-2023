@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project-BPC-IC1-2023",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-BPC-IC1-2023::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-BPC-IC1-2023-Debug-25cf14e4b2cec616c1da.json",
+					"name" : "Project-BPC-IC1-2023",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Skola/Bezpoecnost ICT/Projekt/Project-BPC-IC1-2023/out/build/x64-Debug",
+		"source" : "D:/Skola/Bezpoecnost ICT/Projekt/Project-BPC-IC1-2023"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
